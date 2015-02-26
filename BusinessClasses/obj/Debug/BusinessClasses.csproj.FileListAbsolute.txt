@@ -3,8 +3,3 @@ c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\Busines
 c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
 c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\BusinessClasses\obj\Debug\BusinessClasses.dll
 c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\BusinessClasses\obj\Debug\BusinessClasses.pdb
-E:\Projects\PProjects\APIFeeds\GitRepo\BusinessClasses\bin\Debug\BusinessClasses.dll
-E:\Projects\PProjects\APIFeeds\GitRepo\BusinessClasses\bin\Debug\BusinessClasses.pdb
-E:\Projects\PProjects\APIFeeds\GitRepo\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
-E:\Projects\PProjects\APIFeeds\GitRepo\BusinessClasses\obj\Debug\BusinessClasses.dll
-E:\Projects\PProjects\APIFeeds\GitRepo\BusinessClasses\obj\Debug\BusinessClasses.pdb
