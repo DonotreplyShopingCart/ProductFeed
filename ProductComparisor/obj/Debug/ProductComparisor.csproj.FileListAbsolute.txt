@@ -1,0 +1,8 @@
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\bin\ProductComparisor.dll.config
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\bin\ProductComparisor.dll
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\bin\ProductComparisor.pdb
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\bin\BusinessClasses.dll
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\bin\BusinessClasses.pdb
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\obj\Debug\ProductComparisor.csprojResolveAssemblyReference.cache
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\obj\Debug\ProductComparisor.dll
+c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\obj\Debug\ProductComparisor.pdb
