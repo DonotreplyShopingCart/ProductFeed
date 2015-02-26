@@ -21,6 +21,9 @@ namespace ProductComparisor
 
 
 
+
+
+
         [OperationContract]
         [WebInvoke(Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare, UriTemplate = "GetProductInfoById/{pId}")]
