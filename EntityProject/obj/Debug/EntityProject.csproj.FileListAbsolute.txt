@@ -10,3 +10,15 @@ E:\Projects\PProjects\APIFeeds\ProductComparisor\EntityProject\bin\Debug\EntityF
 E:\Projects\PProjects\APIFeeds\ProductComparisor\EntityProject\obj\Debug\EntityProject.csprojResolveAssemblyReference.cache
 E:\Projects\PProjects\APIFeeds\ProductComparisor\EntityProject\obj\Debug\EntityProject.dll
 E:\Projects\PProjects\APIFeeds\ProductComparisor\EntityProject\obj\Debug\EntityProject.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\ProductBase.mdf
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\ProductBase_log.ldf
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityProject.dll.config
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityProject.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityProject.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityFramework.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityFramework.xml
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\obj\Debug\EntityProject.csprojResolveAssemblyReference.cache
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\obj\Debug\EntityProject.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\EntityProject\obj\Debug\EntityProject.pdb

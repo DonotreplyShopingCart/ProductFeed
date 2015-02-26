@@ -6,3 +6,19 @@ c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\Product
 c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\obj\Debug\ProductComparisor.csprojResolveAssemblyReference.cache
 c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\obj\Debug\ProductComparisor.dll
 c:\users\neosoft\documents\visual studio 2013\Projects\ProductComparisor\ProductComparisor\obj\Debug\ProductComparisor.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ProductBase.mdf
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ProductBase_log.ldf
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ProductComparisor.dll.config
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ProductComparisor.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ProductComparisor.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\BusinessClasses.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ComparisorDAL.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\EntityProject.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\EntityFramework.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\BusinessClasses.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\ComparisorDAL.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\EntityProject.pdb
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\bin\EntityFramework.xml
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\obj\Debug\ProductComparisor.csprojResolveAssemblyReference.cache
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\obj\Debug\ProductComparisor.dll
+E:\Projects\PProjects\APIFeeds\GitRepo\ProductComparisor\obj\Debug\ProductComparisor.pdb

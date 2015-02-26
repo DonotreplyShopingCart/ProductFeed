@@ -19,11 +19,6 @@ namespace ProductComparisor
             BodyStyle = WebMessageBodyStyle.Bare, UriTemplate = "GetProducts")]
         List<ProductModel> GetProducts();
 
-
-
-
-
-
         [OperationContract]
         [WebInvoke(Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare, UriTemplate = "GetProductInfoById/{pId}")]

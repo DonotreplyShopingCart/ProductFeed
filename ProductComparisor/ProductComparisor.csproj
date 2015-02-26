@@ -85,6 +85,10 @@
       <Project>{B1E88766-1C55-419B-9788-F7ABDF4E3A36}</Project>
       <Name>BusinessClasses</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ComparisorDAL\ComparisorDAL.csproj">
+      <Project>{cd7b3de3-eeb4-4094-875d-9fe02012ce49}</Project>
+      <Name>ComparisorDAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EntityProject\EntityProject.csproj">
       <Project>{bf75958b-3a6d-4193-b71c-d0d7c31e4b4e}</Project>
       <Name>EntityProject</Name>
