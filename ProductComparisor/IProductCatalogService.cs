@@ -14,7 +14,6 @@ namespace ProductComparisor
     [ServiceContract]
     public interface IProductCatalogService
     {
-
         [OperationContract]
         [WebInvoke(Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare, UriTemplate = "GetProducts")]
