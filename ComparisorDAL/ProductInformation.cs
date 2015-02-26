@@ -49,6 +49,7 @@ namespace ComparisorDAL
             {
                 using (var pce = new ProductBaseEntities())
                 {
+
                     var productInfo = pce.ProductInformations.FirstOrDefault(m => m.Id == productId && m.IsActive);
 
                     if (productInfo != null)
